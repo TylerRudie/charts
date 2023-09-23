@@ -4,7 +4,7 @@ image:
 
 thanosImage:
   repository: tccr.io/truecharts/thanos
-  tag: 0.31.0@sha256:28282d3e63f84cdeeb05e965b173b610d5597997acc7ce75d5849207b0f97b28
+  tag: v0.32.3@sha256:f3c5a364f200bf8aacbb686c432bc050fb1696579c18284ea9d8f63fb0b417bc
 
 alertmanagerImage:
   repository: tccr.io/truecharts/alertmanager
