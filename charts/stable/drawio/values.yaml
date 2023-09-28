@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/drawio
-  tag: v21.8.2@sha256:4ed22ea3ceda663f55ec9e62f37d659fc8b883e698be205890974afb406fdde6
+  tag: v22.0.0@sha256:b0ffad7f5eda70bb7cc701199071c2fd9a78407f1a7271dfbfe554f45edaa9db
   pullPolicy: IfNotPresent
 
 securityContext:
