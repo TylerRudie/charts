@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/matomo
-  tag: v4.15.0@sha256:40ad3f22a62ab52036f064587ff26f5727e517ba87128c98e48bf63ac1fa5e74
+  tag: v4.15.1@sha256:0d50b0cdf90889f78d48cf0d3bc230678674629027b71685453f40932ae8b24d
   pullPolicy: IfNotPresent
 service:
   main:
